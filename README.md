@@ -14,6 +14,9 @@ Apresentação dinâmica e avançada de dados
 - Tela de Detalhes:
 ![Print](Detalhes.png)
 
+- Tela de Gráfico:
+![Print](Grafico.png)
+
 ## Estrutura do JSON
 
 ```js
