@@ -1,5 +1,5 @@
 # DWFE-Semana14-AtividadePratica-ApresentacaoDinamica
-Apresentação dinâmica e avançada de dados
+Apresentação dinâmica e avançada de dados - Funcionalidade Gráfico por Categoria
 
 ## Informações Gerais
 
@@ -14,7 +14,7 @@ Apresentação dinâmica e avançada de dados
 - Tela de Detalhes:
 ![Print](Detalhes.png)
 
-- Tela de Gráfico:
+- Tela de Gráfico por Categoria:
 ![Print](Grafico.png)
 
 ## Estrutura do JSON
